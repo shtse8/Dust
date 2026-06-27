@@ -19,7 +19,7 @@ dependencies:
     path: packages/router
 
 dev_dependencies:
-  lints: ^3.0.0
+  lints: ^6.0.0
   build_runner: ^2.4.0
   build_web_compilers: ^4.0.0
   dust_atomic_styles:
