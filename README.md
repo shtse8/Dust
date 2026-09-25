@@ -4,7 +4,7 @@
 # Dust ✨: A Modern Dart Web Framework
 
 <p align="center">
-  <img src="https://mark.sylphx.com/api/v1/banner?type=holo&theme=tokyonight&text=Dust&desc=Dust%3A+A+modern%2C+component-based+Dart+web+framework+inspired+by+React%2FVue.+Built+&height=200&animation=rise&credit=0" alt="Dust — Sylphx Mark banner" width="100%" />
+  <img src="https://mark.sylphx.com/api/v1/mark/hero?type=holo&theme=tokyonight&text=Dust&desc=Dust%3A+A+modern%2C+component-based+Dart+web+framework+inspired+by+React%2FVue.&height=200&animation=rise" alt="Dust — Sylphx Mark banner" width="100%" />
 </p>
 
 <!-- Add relevant badges here -->
